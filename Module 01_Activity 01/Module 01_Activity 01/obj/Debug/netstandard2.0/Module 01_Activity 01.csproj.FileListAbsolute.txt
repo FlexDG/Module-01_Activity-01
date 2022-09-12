@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\Module 01_Activity 01.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\Module 01_Activity 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\Module 01_Activity 01.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\Module 01_Activity 01.AssemblyInfo.cs
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\Module 01_Activity 01.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\Module 01_Activity 01.dll
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\refint\Module 01_Activity 01.dll
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\Module 01_Activity 01.pdb
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\bin\Debug\netstandard2.0\Module 01_Activity 01.deps.json
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\bin\Debug\netstandard2.0\Module 01_Activity 01.dll
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\bin\Debug\netstandard2.0\Module 01_Activity 01.pdb
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\source\repos\Module 01_Activity 01\Module 01_Activity 01\Module 01_Activity 01\obj\Debug\netstandard2.0\ref\Module 01_Activity 01.dll
